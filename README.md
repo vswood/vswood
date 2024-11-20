@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rob Wood</h1>
-<h3 align="center">An outlier developer of vast skill, experience, knowledge, and wisdom.</h3>
+<h1 align="center">Rob Wood</h1>
+<h3 align="center">A statistical outlier, a polymath possessing vast and diverse experience, imposing erudition, virtuoso skill, &amp; judicious wisdom.</h3>
 
-- 🔭 I’m currently working on [OutreachPro](https://outreachpro.nia.nih.gov/)
+- 󱛠 I’m currently working on [OutreachPro](https://outreachpro.nia.nih.gov/)
 
 - 🌱 I’m currently learning **Monorepos and tooling, local first apps**
 
