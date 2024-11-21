@@ -1,15 +1,7 @@
 <h1 align="center">Rob Wood</h1>
 <h3 align="center">A statistical outlier, a polymath possessing vast and diverse experience, imposing erudition, virtuoso skill, &amp; judicious wisdom.</h3>
 
-<h2>Skills, Abbreviated</h2>
-
-<h3>Expert Skills:</h3>
-
-[![Expert](https://skillicons.dev/icons?i=apple,aws,bash,bitbucket,bootstrap,c,cpp,cs,css,docker,git,html,jquery,js,linux,mysql,nginx,nodejs,php,regex,sass,ubuntu,vscode,webpack,windows,wordpress)](https://skillicons.dev)
-
-<h3>Advanced Skills:</h3>
-
-[![Experienced](https://skillicons.dev/icons?i=astro,cypress,dotnet,dynamodb,ember,express,figma,gcp,github,graphql,gulp,ai,java,jenkins,jest,laravel,md,mongodb,npm,perl,ps,pnpm,postgres,postman,py,rails,react,redis,ruby,spring,sqlite,svelte,symfony,tailwind,ts,vite,vitest,vue,yarn)](https://skillicons.dev)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="74" height="74" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="74" height="74" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="74" height="74" /></div>
 
 - 󱛠 I’m currently working on [OutreachPro](https://outreachpro.nia.nih.gov/)
 
@@ -37,6 +29,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<h3>Expert Skills:</h3>
+
+[![Expert](https://skillicons.dev/icons?i=apple,aws,bash,bitbucket,bootstrap,c,cpp,cs,css,docker,git,html,jquery,js,linux,mysql,nginx,nodejs,php,regex,sass,ubuntu,vscode,webpack,windows,wordpress)](https://skillicons.dev)
+
+<h3>Advanced Skills:</h3>
+
+[![Experienced](https://skillicons.dev/icons?i=astro,cypress,dotnet,dynamodb,ember,express,figma,gcp,github,graphql,gulp,ai,java,jenkins,jest,laravel,md,mongodb,npm,perl,ps,pnpm,postgres,postman,py,rails,react,redis,ruby,spring,sqlite,svelte,symfony,tailwind,ts,vite,vitest,vue,yarn)](https://skillicons.dev)
 
 <div align="center">
 	<code><img width="36" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
