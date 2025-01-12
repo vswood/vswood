@@ -1,6 +1,6 @@
 # Rob Wood
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/virtualstyle/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) Connect with Rob on LinkedIn!](https://www.linkedin.com/in/virtualstyle/)
 
 ## Sr. Group Leader/Lead Developer at Marketing for Change Co.
 
