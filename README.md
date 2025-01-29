@@ -2,7 +2,9 @@
 #### Sr. Group Leader/Lead Developer at Marketing for Change Co.
 ##### Leading Teams to Elegant Solutions & Operational Excellence for Over 2 Decades.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="virtualstyle" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/virtualstyle?trk=profile-badge">Rob Wood</a></div>
+<a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/virtualstyle?trk=profile-badge">
+![LinkedIn Profile Badge](./linked-in-bdage.png)
+</a>
               
 
 ### A Modern Day Technological Polymath
