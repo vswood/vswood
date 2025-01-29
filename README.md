@@ -2,9 +2,7 @@
 #### Sr. Group Leader/Lead Developer at Marketing for Change Co.
 ##### Leading Teams to Elegant Solutions & Operational Excellence for Over 2 Decades.
 
-<a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/virtualstyle?trk=profile-badge">
-![LinkedIn Profile Badge](./linked-in-bdage.png)
-</a>
+[<img src="./linked-in-badge.png" width="220" />](https://www.linkedin.com/in/virtualstyle)
               
 
 ### A Modern Day Technological Polymath
