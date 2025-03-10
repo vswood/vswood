@@ -1,5 +1,7 @@
 # Rob Wood
 
+<a  href="https://www.linkedin.com/in/virtualstyle?trk=profile-badge">Rob on LinkedIn</a></div>
+
 ### Visionary systems architect and software engineer with 26 years of industry experience. 
 
 Expert at designing, scaling, and securing cloud-native solutions on AWS. Proven ability to drive transformative innovation, streamline cloud migrations, and engineer high-performance, full stack distributed systems that deliver business-critical impact.
@@ -10,5 +12,3 @@ Expert at designing, scaling, and securing cloud-native solutions on AWS. Proven
 - **Relentless Problem-Solver & Technologist:** From re-engineering applications as cost-efficient, scalable microservices to optimizing cloud infrastructure for performance, resilience, and security, Rob’s clarity, precision, and technical brilliance ensure that strategic transformation begins on day one, and continual improvement becomes routine.
 
 A driving force for maximizing resilience, agility, and business continuity, Rob focuses on refining cloud security, stability, and incident response, and ephemeral, stateless, scalable, future-proof architectures. Whether leading/mentoring engineers, or architecting next-gen platforms, or powering out bug fixes & features, Rob’s knowledge, skills, mindset, and work ethic delivers solutions that elevate experiences, optimize performance, and drive business growth.
-
-[<img src="./linked-in-badge.png" width="220" />](https://www.linkedin.com/in/virtualstyle)
