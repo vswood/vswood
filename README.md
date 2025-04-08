@@ -4,7 +4,7 @@
 
 ### Dynamic Cloud Architect & Full Stack Plus Software Engineer | Innovator | Leader | Mentor 
 
-Visionary architect and engineer with remarkably breadth and depth of knowledge, skills, and experience. Expert at designing, scaling, and securing full stack applications and service oriented architectures. Proven ability to drive transformative innovation, streamline cloud migrations, and engineer high-performance, full stack distributed systems that deliver business-critical impact.
+Visionary architect and engineer with remarkable breadth and depth of knowledge, skills, and experience. Expert at designing, scaling, and securing full stack applications and service oriented architectures. Proven ability to drive transformative innovation, streamline cloud migrations, and engineer high-performance, full stack distributed systems that deliver business-critical impact.
 
 - **AWS & DevOps Adept:** Deep expertise in serverless, containerization, IaC, CI/CD, resilience, and security.
 - **Ace of Scale & Resilience:** Apps that did 6TB/mo., captured $3M contracts, & made legacy apps secure, scalable, services.
